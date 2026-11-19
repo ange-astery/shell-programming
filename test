@@ -1,0 +1,4 @@
+total 24
+-rwxr--r--@ 1 angeorelien  staff   81 18 Nov 13:12 check-phone.sh
+-rwxr--r--@ 1 angeorelien  staff  112 15 Nov 02:20 list-params.sh
+-rwx------@ 1 angeorelien  staff  547 16 Nov 12:36 random-number.sh
